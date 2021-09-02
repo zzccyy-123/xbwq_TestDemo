@@ -1,0 +1,19 @@
+{
+  "summary": "我是总结啊",
+  "date1": "2021, 8, 1,0,0,0",
+  "picPath1": "C:\\Users\\Administrator\\Desktop\\2.jpg",
+  "singleInput": "单行输入",
+  "MultipleInput": "多行输入",
+  "number": "56",
+  "phoneNumber": "13112345678",
+  "money": "50",
+  "option": "单选2",
+  "options": "多选1,多选2",
+  "date2": "2021,8,20",
+  "date3": "2021,8,22",
+  "startTime": "2021,8,8",
+  "endTime": "2021,8,12",
+  "picPath2": "C:\\Users\\Administrator\\Desktop\\3.jpg",
+  "picPath3": "C:\\Users\\Administrator\\Desktop\\4.jpg",
+  "remarks": "selenium测试"
+}
